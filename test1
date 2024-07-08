@@ -1,5 +1,10 @@
 test lan 1
 update test lan 1
+<<<<<<< HEAD
 
 
 conflict 2
+=======
+create conflict on github
+
+>>>>>>> 4821b0bee798ebc5cac91d03ec881c60e13c6d99
